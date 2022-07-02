@@ -71,3 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Catlabels - A react website 
+
+A simple website where the user can search from 10 different cats 
